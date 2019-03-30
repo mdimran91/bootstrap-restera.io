@@ -1,0 +1,111 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+.navbar-brand{
+    color: #fab02b;
+}
+
+.bg-img{
+	background-image: url('../images/banner.jpg');
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	width: 100%;
+    height: 750px;
+}
+.headerset{
+    padding: 250px;
+    box-sizing: border-box;
+    
+}
+.headerset h2{
+	font-size: 32px;
+	margin-bottom: 20px;
+}
+.headerset h1{
+	font-size: 52px;
+}
+
+.nav-item{
+	padding:10px;
+}
+.nav-item:hover{
+	background-color: #fab02b;
+	cursor: pointer;
+}
+.nav-link {
+	cursor: pointer;
+	font-weight: bold;
+}
+
+.button-subs{
+	background-color: #fab02b;
+}
+
+.services{
+	padding: 100px 0px 60px;
+}
+.services h1{
+	font-weight: bold;
+	font-size: 50px;
+}
+
+.row-setting{
+	margin: 80px 0px;
+}
+.row-setting h2{
+padding: 20px;
+}
+.row-setting p{
+	padding: 10px;
+	color: rgb(110, 106, 106);
+}
+
+.img-setting{
+	border-radius: 50%;
+	height: 100px;
+	width: 100px;
+}
+
+.fa-thumbs-up, .fa-shield-alt, .fa-tools{
+	margin-top: 25px;
+}
+
+/**** Gallery ****/
+
+.gallery{
+	padding: 50px 0px 50px;
+	background-color:#e0e2e1 !important;
+}
+
+.gallery h1{
+	font-size: 50px;
+	font-weight: bold;
+}
+
+.card{
+	margin: 20px 0px;
+}
+
+.card-link{
+	box-sizing: border-box;
+}
+
+.card:hover{
+	margin: 0px;
+	padding: 0px;
+	box-shadow: #fab02b;
+	border: 5px solid #fab02b;
+	cursor: pointer;
+}
+/*///////////Team */
+
+.team{
+	background-color:#e0e2e1 !important;
+}
+
+.team h1{
+	padding-top: 50px !important;
+	font-size: 50px;
+	font-weight: bold;
+}
