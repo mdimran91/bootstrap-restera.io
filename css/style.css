@@ -102,10 +102,24 @@ padding: 20px;
 
 .team{
 	background-color:#e0e2e1 !important;
+	height: 100%;
 }
 
 .team h1{
 	padding-top: 50px !important;
 	font-size: 50px;
 	font-weight: bold;
+}
+
+.team-setting{
+	margin: 50px 0px;
+}
+
+.footer{
+	height: 100%;
+}
+
+.footer h6{
+	line-height: 50px;
+	color: white;
 }
